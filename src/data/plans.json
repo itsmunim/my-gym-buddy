@@ -1,0 +1,63 @@
+{
+  "name": "4-Day Upper/Lower Split",
+  "days": [
+    {
+      "day": "Day A - Chest, Shoulders, Back",
+      "emphasis": "Chest, Shoulders, Back",
+      "exercises": [
+        "bench-press",
+        "one-arm-dumbbell-row",
+        "overhead-press",
+        "goblet-squat",
+        "cable-chest-fly",
+        "bicep-curl",
+        "plank-shoulder-taps"
+      ],
+      "sets": "3×8-12 for main lifts, 3×10-12 for curls, 2-3×30-45 sec for core"
+    },
+    {
+      "day": "Day B - Legs, Back, Arms",
+      "emphasis": "Legs, Back, Arms",
+      "exercises": [
+        "kettlebell-rdl",
+        "cable-row",
+        "walking-lunges",
+        "lateral-raises",
+        "tricep-pushdown",
+        "farmers-walk",
+        "plank-shoulder-taps"
+      ],
+      "sets": "3×8-12 for big lifts, 3×10-15 for accessories, 2-3× for core/grip"
+    },
+    {
+      "day": "Day C - Day A Variation",
+      "emphasis": "Chest, Shoulders, Back (Variation)",
+      "exercises": [
+        "incline-dumbbell-press",
+        "bent-over-row",
+        "arnold-press",
+        "bulgarian-split-squat",
+        "cable-chest-fly",
+        "bicep-curl",
+        "plank-shoulder-taps"
+      ],
+      "sets": "Same as Day A",
+      "notes": "Variation of Day A with incline press and Arnold press"
+    },
+    {
+      "day": "Day D - Day B Variation",
+      "emphasis": "Legs, Back, Arms (Variation)",
+      "exercises": [
+        "kettlebell-rdl",
+        "cable-row",
+        "bulgarian-split-squat",
+        "lateral-raises",
+        "overhead-press",
+        "tricep-pushdown",
+        "farmers-walk"
+      ],
+      "sets": "Same as Day B",
+      "notes": "Variation with Bulgarian split squats and seated press"
+    }
+  ]
+}
