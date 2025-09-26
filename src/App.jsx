@@ -7,7 +7,7 @@ import { Container, Navbar, Nav } from 'react-bootstrap'
 
 export default function App(){
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/my-gym-buddy">
       <Navbar bg="dark" variant="dark" expand="lg" className="mb-4 shadow-sm">
         <Container>
           <Navbar.Brand as={Link} to="/" className="d-flex align-items-center">
