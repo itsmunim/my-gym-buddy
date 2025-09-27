@@ -2,7 +2,7 @@
   "name": "mygymbuddy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mdabdulmunim.github.io/my-gym-buddy",
+  "homepage": "https://itsmunim.github.io/my-gym-buddy",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

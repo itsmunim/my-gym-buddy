@@ -1,63 +1,58 @@
 {
-  "name": "4-Day Upper/Lower Split",
+  "name": "4-Day Push/Pull/Legs/Hybrid Split",
   "days": [
     {
-      "day": "Day A - Chest, Shoulders, Back",
-      "emphasis": "Chest, Shoulders, Back",
+      "day": "Day 1 – Push (Chest + Shoulders + Triceps)",
+      "emphasis": "Strength & hypertrophy",
       "exercises": [
-        "bench-press",
-        "one-arm-dumbbell-row",
-        "overhead-press",
+        "barbell-bench-press",
+        "incline-bench-press",
+        "shoulder-press",
+        "lateral-raises",
+        "cable-tricep-pushdown",
+        "overhead-tricep-extension"
+      ],
+      "sets": "3×8–12 each"
+    },
+    {
+      "day": "Day 2 – Pull (Back + Biceps + Core)",
+      "emphasis": "Pulling power + arms",
+      "exercises": [
+        "single-arm-row",
+        "seated-cable-row",
+        "face-pull",
+        "dumbbell-curl",
+        "hammer-curl",
+        "cable-crunch"
+      ],
+      "sets": "3×8–12 each"
+    },
+    {
+      "day": "Day 3 – Legs + Core (Light Upper Body Touch)",
+      "emphasis": "Balanced",
+      "exercises": [
         "goblet-squat",
-        "cable-chest-fly",
-        "bicep-curl",
-        "plank-shoulder-taps"
+        "bulgarian-split-squat",
+        "romanian-deadlift",
+        "standing-calf-raises",
+        "hanging-knee-raise",
+        "push-ups"
       ],
-      "sets": "3×8-12 for main lifts, 3×10-12 for curls, 2-3×30-45 sec for core"
+      "sets": "3×10–15",
+      "notes": "Optional upper touch: Push-ups or Dips"
     },
     {
-      "day": "Day B - Legs, Back, Arms",
-      "emphasis": "Legs, Back, Arms",
+      "day": "Day 4 – Push + Pull Hybrid (Chest/Shoulders/Arms/Abs)",
+      "emphasis": "Heavy focus on your priority",
       "exercises": [
-        "kettlebell-rdl",
-        "cable-row",
-        "walking-lunges",
-        "lateral-raises",
-        "tricep-pushdown",
-        "farmers-walk",
-        "plank-shoulder-taps"
-      ],
-      "sets": "3×8-12 for big lifts, 3×10-15 for accessories, 2-3× for core/grip"
-    },
-    {
-      "day": "Day C - Day A Variation",
-      "emphasis": "Chest, Shoulders, Back (Variation)",
-      "exercises": [
-        "incline-dumbbell-press",
-        "bent-over-row",
+        "incline-barbell-press",
         "arnold-press",
-        "bulgarian-split-squat",
-        "cable-chest-fly",
-        "bicep-curl",
-        "plank-shoulder-taps"
+        "chest-fly-flat",
+        "concentration-curl",
+        "overhead-cable-tricep-extension",
+        "plank-shoulder-tap"
       ],
-      "sets": "Same as Day A",
-      "notes": "Variation of Day A with incline press and Arnold press"
-    },
-    {
-      "day": "Day D - Day B Variation",
-      "emphasis": "Legs, Back, Arms (Variation)",
-      "exercises": [
-        "kettlebell-rdl",
-        "cable-row",
-        "bulgarian-split-squat",
-        "lateral-raises",
-        "overhead-press",
-        "tricep-pushdown",
-        "farmers-walk"
-      ],
-      "sets": "Same as Day B",
-      "notes": "Variation with Bulgarian split squats and seated press"
+      "sets": "3×8–12"
     }
   ]
 }

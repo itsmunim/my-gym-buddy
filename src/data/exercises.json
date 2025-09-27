@@ -1,98 +1,7 @@
 [
   {
-    "id": "dumbbell-shoulder-row",
-    "name": "Dumbbell Upright Row",
-    "categories": [
-      "Shoulders",
-      "Traps",
-      "Biceps"
-    ],
-    "short": "Pull dumbbells straight up along your body to collarbone level.",
-    "youtubeQuery": "upright+row+proper+form",
-    "steps": [
-      "Stand feet shoulder-width, hold dumbbells in front of thighs.",
-      "Pull dumbbells straight up, elbows leading, to collarbone level.",
-      "Pause and lower slowly with control."
-    ],
-    "thumbnail": "images/dumbbell-shoulder-row-thumb.jpg",
-    "images": [
-      "images/dumbbell-shoulder-row-step-1.png",
-      "images/dumbbell-shoulder-row-step-2.png",
-      "images/dumbbell-shoulder-row-step-3.png"
-    ],
-    "videoUrl": "videos/dumbbell-shoulder-row.mp4"
-  },
-  {
-    "id": "bent-over-row",
-    "name": "Bent-Over Row (Dumbbell)",
-    "categories": [
-      "Back",
-      "Biceps"
-    ],
-    "short": "Hinge at hips, pull dumbbells to your lower ribs, squeeze shoulder blades.",
-    "youtubeQuery": "bent+over+row+proper+form",
-    "steps": [
-      "Hinge at hips until torso nearly parallel, keep back flat.",
-      "Pull dumbbells towards lower ribs, elbows close to body.",
-      "Lower slowly, keep core tight."
-    ],
-    "thumbnail": "images/bent-over-row-thumb.jpg",
-    "images": [
-      "images/bent-over-row-step-1.png",
-      "images/bent-over-row-step-2.png",
-      "images/bent-over-row-step-3.png"
-    ],
-    "videoUrl": "videos/bent-over-row.mp4"
-  },
-  {
-    "id": "bicep-curl",
-    "name": "Dumbbell Bicep Curl",
-    "categories": [
-      "Biceps",
-      "Forearms"
-    ],
-    "short": "Keep elbows by your sides, curl weights with control.",
-    "youtubeQuery": "dumbbell+bicep+curl+form",
-    "steps": [
-      "Stand tall, dumbbells at sides. Elbows stay pinned to sides.",
-      "Move only forearms, curl weights up by contracting biceps.",
-      "Control both raising & lowering phases for maximum effectiveness."
-    ],
-    "thumbnail": "images/bicep-curl-thumb.jpg",
-    "images": [
-      "images/bicep-curl-step-1.png",
-      "images/bicep-curl-step-2.png",
-      "images/bicep-curl-step-3.png"
-    ],
-    "videoUrl": "videos/bicep-curl.mp4"
-  },
-  {
-    "id": "plank-shoulder-taps",
-    "name": "Plank Shoulder Taps",
-    "categories": [
-      "Core",
-      "Shoulders",
-      "Stability"
-    ],
-    "short": "High plank, tap opposite shoulder while keeping hips stable.",
-    "youtubeQuery": "plank+shoulder+taps+form",
-    "steps": [
-      "Start in high plank, body straight from head to heels.",
-      "Lift right hand to tap left shoulder, place it back.",
-      "Alternate while minimizing hip rotation."
-    ],
-    "thumbnail": "images/plank-shoulder-taps-thumb.jpg",
-    "images": [
-      "images/plank-shoulder-taps-step-1.png",
-      "images/plank-shoulder-taps-step-2.png",
-      "images/plank-shoulder-taps-step-3.png"
-    ],
-    "videoUrl": "videos/plank-shoulder-taps.mp4",
-    "youtubeEmbed": "https://www.youtube.com/embed/j7ULT6dznNc?rel=0"
-  },
-  {
     "id": "bench-press",
-    "name": "Dumbbell Bench Press",
+    "name": "Bench Press (Dumbbell)",
     "categories": [
       "Chest",
       "Triceps",
@@ -105,84 +14,95 @@
       "Keep elbows at ~45° angle (not flared too wide). Press up fully, squeezing chest.",
       "Control both down & up motion for maximum effectiveness."
     ],
-    "thumbnail": "images/bench-press-thumb.jpg",
-    "images": [
-      "images/bench-press-step-1.png",
-      "images/bench-press-step-2.png",
-      "images/bench-press-step-3.png"
-    ],
-    "videoUrl": "videos/bench-press.mp4",
-    "youtubeEmbed": "https://www.youtube.com/embed/j7ULT6dznNc?rel=0"
+    "youtubeEmbed": "https://www.youtube.com/embed/VmB1G1K7v94",
+    "thumbnail": "images/bench-press-thumb.jpg"
   },
   {
-    "id": "incline-dumbbell-press",
-    "name": "Incline Dumbbell Press",
-    "categories": [
-      "Upper Chest",
-      "Shoulders"
-    ],
-    "short": "Incline bench press to target upper chest and front delts.",
-    "youtubeQuery": "incline+dumbbell+press+form",
-    "steps": [
-      "Set bench at 30-45°, lie back with dumbbells at chest.",
-      "Press up and slightly together, focus on upper chest.",
-      "Lower with control."
-    ],
-    "thumbnail": "images/incline-dumbbell-press-thumb.jpg",
-    "images": [
-      "images/incline-dumbbell-press-step-1.png",
-      "images/incline-dumbbell-press-step-2.png",
-      "images/incline-dumbbell-press-step-3.png"
-    ],
-    "videoUrl": "videos/incline-dumbbell-press.mp4",
-    "youtubeEmbed": "https://www.youtube.com/embed/j7ULT6dznNc?rel=0"
-  },
-  {
-    "id": "one-arm-dumbbell-row",
-    "name": "One-Arm Dumbbell Row",
-    "categories": [
-      "Back",
-      "Lats",
-      "Biceps"
-    ],
-    "short": "Support one knee/hand on bench, row dumbbell to your hip.",
-    "youtubeQuery": "one+arm+dumbbell+row+form",
-    "steps": [
-      "One knee & hand on bench, other foot on ground. Back flat & parallel to bench.",
-      "Pull dumbbell so elbow goes back past torso, squeeze shoulder blades.",
-      "Lower slowly with control, maintain flat back position."
-    ],
-    "thumbnail": "images/one-arm-dumbbell-row-thumb.jpg",
-    "images": [
-      "images/one-arm-dumbbell-row-step-1.png",
-      "images/one-arm-dumbbell-row-step-2.png",
-      "images/one-arm-dumbbell-row-step-3.png"
-    ],
-    "videoUrl": "videos/one-arm-dumbbell-row.mp4"
-  },
-  {
-    "id": "overhead-press",
-    "name": "Overhead Dumbbell Press",
+    "id": "shoulder-press",
+    "name": "Shoulder Press (Dumbbell)",
     "categories": [
       "Shoulders",
       "Triceps",
       "Core"
     ],
     "short": "Press dumbbells overhead, keep core braced and avoid arching.",
-    "youtubeQuery": "overhead+press+dumbbell+form",
+    "youtubeQuery": "dumbbell+shoulder+press+form",
     "steps": [
-      "Can do seated or standing. Keep core tight, avoid arching back.",
+      "Seated or standing, dumbbells at shoulder level. Keep core tight.",
       "Press straight overhead with full range of motion.",
-      "Don't rush; control downward motion is as important as pressing up."
+      "Lower with control, don't let elbows drop below shoulder level."
     ],
-    "thumbnail": "images/overhead-press-thumb.jpg",
-    "images": [
-      "images/overhead-press-step-1.png",
-      "images/overhead-press-step-2.png",
-      "images/overhead-press-step-3.png"
+    "youtubeEmbed": "https://www.youtube.com/embed/qEwKCR5JCog",
+    "thumbnail": "images/shoulder-press-thumb.jpg"
+  },
+  {
+    "id": "dumbbell-fly",
+    "name": "Dumbbell Fly",
+    "categories": [
+      "Chest",
+      "Shoulders"
     ],
-    "videoUrl": "videos/overhead-press.mp4",
-    "youtubeEmbed": "https://www.youtube.com/embed/j7ULT6dznNc?rel=0"
+    "short": "Arc dumbbells out and together, focusing on chest stretch and squeeze.",
+    "youtubeQuery": "dumbbell+fly+chest+form",
+    "steps": [
+      "Lie on bench, dumbbells above chest with slight elbow bend.",
+      "Lower weights in wide arc until you feel chest stretch.",
+      "Bring dumbbells together above chest, squeezing pecs."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/eozdVDA78K0",
+    "thumbnail": "images/dumbbell-fly-thumb.jpg"
+  },
+  {
+    "id": "lateral-raises",
+    "name": "Lateral Raises",
+    "categories": [
+      "Shoulders",
+      "Delts"
+    ],
+    "short": "Raise dumbbells out to sides until parallel with ground.",
+    "youtubeQuery": "lateral+raises+form",
+    "steps": [
+      "Stand with dumbbells at sides, slight bend in elbows.",
+      "Raise weights out to sides until parallel with ground.",
+      "Lower with control, don't swing or use momentum."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/3VcKaXpzqRo",
+    "thumbnail": "images/lateral-raises-thumb.jpg"
+  },
+  {
+    "id": "tricep-dips",
+    "name": "Tricep Dips (Bench)",
+    "categories": [
+      "Triceps",
+      "Shoulders",
+      "Chest"
+    ],
+    "short": "Lower body using triceps, keep elbows close to body.",
+    "youtubeQuery": "bench+tricep+dips+form",
+    "steps": [
+      "Sit on bench edge, hands gripping beside hips, legs extended.",
+      "Lower body by bending elbows, keep them close to sides.",
+      "Push back up using triceps, don't go too low to avoid shoulder strain."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/0326dy_-CzM",
+    "thumbnail": "images/tricep-dips-thumb.jpg"
+  },
+  {
+    "id": "overhead-tricep-extension",
+    "name": "Overhead Tricep Extension",
+    "categories": [
+      "Triceps",
+      "Core"
+    ],
+    "short": "Lower dumbbell behind head, extend back up using triceps.",
+    "youtubeQuery": "overhead+tricep+extension+dumbbell",
+    "steps": [
+      "Hold dumbbell overhead with both hands, elbows pointing forward.",
+      "Lower weight behind head by bending elbows, keep upper arms still.",
+      "Extend back to start position, focus on tricep contraction."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/YbX7Wd8jQ-Q",
+    "thumbnail": "images/overhead-tricep-extension-thumb.jpg"
   },
   {
     "id": "goblet-squat",
@@ -199,146 +119,17 @@
       "Squat down with good depth, knees tracking over toes.",
       "Drive up through heels, maintain upright chest position."
     ],
-    "thumbnail": "images/goblet-squat-thumb.jpg",
-    "images": [
-      "images/goblet-squat-step-1.png",
-      "images/goblet-squat-step-2.png",
-      "images/goblet-squat-step-3.png"
-    ],
-    "videoUrl": "videos/goblet-squat.mp4",
-    "youtubeEmbed": "https://www.youtube.com/embed/MsxLG_ZEoOQ?rel=0"
-  },
-  {
-    "id": "kettlebell-rdl",
-    "name": "Kettlebell Romanian Deadlift",
-    "categories": [
-      "Hamstrings",
-      "Glutes",
-      "Back"
-    ],
-    "short": "Hinge at hips with slight knee bend, feel hamstring stretch.",
-    "youtubeQuery": "kettlebell+romanian+deadlift+form",
-    "steps": [
-      "Hinge at hips, slight bend in knees. Keep back flat, core engaged.",
-      "Feel stretch along hamstrings as you lower weight.",
-      "Drive through heels to come up, squeeze glutes at top."
-    ],
-    "thumbnail": "images/kettlebell-rdl-thumb.jpg",
-    "images": [
-      "images/kettlebell-rdl-step-1.png",
-      "images/kettlebell-rdl-step-2.png",
-      "images/kettlebell-rdl-step-3.png"
-    ],
-    "videoUrl": "videos/kettlebell-rdl.mp4"
-  },
-  {
-    "id": "cable-chest-fly",
-    "name": "Cable Chest Fly",
-    "categories": [
-      "Chest",
-      "Shoulders"
-    ],
-    "short": "Bring cable handles together in front of chest, focus on squeeze.",
-    "youtubeQuery": "cable+chest+fly+form",
-    "steps": [
-      "Set cables slightly above chest height, take handles and step forward.",
-      "Bring hands together in front of you, squeeze chest at peak contraction.",
-      "Return under control, feel stretch in chest muscles."
-    ],
-    "thumbnail": "images/cable-chest-fly-thumb.jpg",
-    "images": [
-      "images/cable-chest-fly-step-1.png",
-      "images/cable-chest-fly-step-2.png",
-      "images/cable-chest-fly-step-3.png"
-    ],
-    "videoUrl": "videos/cable-chest-fly.mp4",
-    "youtubeEmbed": "https://www.youtube.com/embed/8YjdqeIXPUQ?rel=0"
-  },
-  {
-    "id": "farmers-walk",
-    "name": "Farmer's Walk (Grip)",
-    "categories": [
-      "Grip",
-      "Forearms",
-      "Core",
-      "Legs"
-    ],
-    "short": "Carry heavy dumbbells with neutral grip, walk upright for distance/time.",
-    "youtubeQuery": "farmers+walk+technique",
-    "steps": [
-      "Pick heavy dumbbells off the floor with straight back.",
-      "Stand tall and walk controlled steps for specified distance/time.",
-      "Keep shoulders down and core braced."
-    ],
-    "thumbnail": "images/farmers-walk-thumb.jpg",
-    "images": [
-      "images/farmers-walk-step-1.png",
-      "images/farmers-walk-step-2.png",
-      "images/farmers-walk-step-3.png"
-    ],
-    "videoUrl": "videos/farmers-walk.mp4",
-    "youtubeEmbed": "https://www.youtube.com/embed/j7ULT6dznNc?rel=0"
-  },
-  {
-    "id": "walking-lunges",
-    "name": "Walking Lunges",
-    "categories": ["Legs", "Glutes", "Core"],
-    "short": "Step forward into lunge, alternate legs while walking.",
-    "youtubeQuery": "walking+lunges+form",
-    "steps": [
-      "Stand tall, step forward into lunge position.",
-      "Lower back knee toward ground, front thigh parallel.",
-      "Push off back foot, bring it forward to next lunge."
-    ],
-    "thumbnail": "images/walking-lunges-thumb.jpg",
-    "images": ["images/walking-lunges-step-1.png", "images/walking-lunges-step-2.png", "images/walking-lunges-step-3.png"]
-  },
-  {
-    "id": "lateral-raises",
-    "name": "Dumbbell Lateral Raises",
-    "categories": ["Shoulders", "Delts"],
-    "short": "Raise dumbbells out to sides until parallel with ground.",
-    "youtubeQuery": "lateral+raises+form",
-    "steps": [
-      "Stand with dumbbells at sides, slight bend in elbows.",
-      "Raise weights out to sides until parallel with ground.",
-      "Lower with control, don't swing."
-    ],
-    "thumbnail": "images/lateral-raises-thumb.jpg",
-    "images": ["images/lateral-raises-step-1.png", "images/lateral-raises-step-2.png", "images/lateral-raises-step-3.png"]
-  },
-  {
-    "id": "cable-row",
-    "name": "Cable Row",
-    "categories": ["Back", "Lats", "Biceps"],
-    "short": "Pull cable handle to torso, squeeze shoulder blades.",
-    "youtubeQuery": "cable+row+form",
-    "steps": [
-      "Sit at cable machine, grab handle with both hands.",
-      "Pull handle to lower chest, squeeze shoulder blades.",
-      "Return with control, keep chest up."
-    ],
-    "thumbnail": "images/cable-row-thumb.jpg",
-    "images": ["images/cable-row-step-1.png", "images/cable-row-step-2.png", "images/cable-row-step-3.png"]
-  },
-  {
-    "id": "tricep-pushdown",
-    "name": "Tricep Cable Pushdown",
-    "categories": ["Triceps", "Arms"],
-    "short": "Push cable bar down, extend arms fully.",
-    "youtubeQuery": "tricep+pushdown+form",
-    "steps": [
-      "Stand at cable machine, grab bar with overhand grip.",
-      "Keep elbows at sides, push bar down until arms straight.",
-      "Return with control, don't let elbows flare."
-    ],
-    "thumbnail": "images/tricep-pushdown-thumb.jpg",
-    "images": ["images/tricep-pushdown-step-1.png", "images/tricep-pushdown-step-2.png", "images/tricep-pushdown-step-3.png"]
+    "youtubeEmbed": "https://www.youtube.com/embed/MeIiIdhvXT4",
+    "thumbnail": "images/goblet-squat-thumb.jpg"
   },
   {
     "id": "bulgarian-split-squat",
     "name": "Bulgarian Split Squat",
-    "categories": ["Legs", "Glutes", "Quads"],
+    "categories": [
+      "Legs",
+      "Glutes",
+      "Quads"
+    ],
     "short": "Rear foot elevated, lunge down on front leg.",
     "youtubeQuery": "bulgarian+split+squat+form",
     "steps": [
@@ -346,13 +137,299 @@
       "Drop down until front thigh ~parallel to ground.",
       "Push up through front heel, focus weight on front leg."
     ],
-    "thumbnail": "images/bulgarian-split-squat-thumb.jpg",
-    "images": ["images/bulgarian-split-squat-step-1.png", "images/bulgarian-split-squat-step-2.png", "images/bulgarian-split-squat-step-3.png"]
+    "youtubeEmbed": "https://www.youtube.com/embed/2C-uNgKwPLE",
+    "thumbnail": "images/bulgarian-split-squat-thumb.jpg"
+  },
+  {
+    "id": "glute-bridge",
+    "name": "Glute Bridge (Weighted)",
+    "categories": [
+      "Glutes",
+      "Hamstrings",
+      "Core"
+    ],
+    "short": "Bridge hips up with weight, squeeze glutes at top.",
+    "youtubeQuery": "weighted+glute+bridge+form",
+    "steps": [
+      "Lie on back, knees bent, weight on hips/lower abdomen.",
+      "Drive through heels, lift hips up squeezing glutes.",
+      "Hold briefly at top, lower with control."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/OUgsJ8-Vi0E",
+    "thumbnail": "images/glute-bridge-thumb.jpg"
+  },
+  {
+    "id": "calf-raises",
+    "name": "Calf Raises",
+    "categories": [
+      "Calves",
+      "Lower Legs"
+    ],
+    "short": "Rise up on toes, squeeze calves at top.",
+    "youtubeQuery": "calf+raises+form",
+    "steps": [
+      "Stand with balls of feet on elevated surface, heels hanging.",
+      "Rise up on toes as high as possible, squeeze calves.",
+      "Lower heels below platform level for full stretch."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/gwLzBJYoWlI",
+    "thumbnail": "images/calf-raises-thumb.jpg"
+  },
+  {
+    "id": "plank-variations",
+    "name": "Plank Variations",
+    "categories": [
+      "Core",
+      "Shoulders",
+      "Stability"
+    ],
+    "short": "Hold plank position, maintain straight body line.",
+    "youtubeQuery": "plank+variations+core",
+    "steps": [
+      "Start in plank position, body straight from head to heels.",
+      "Engage core, don't let hips sag or pike up.",
+      "Hold for time or add variations like shoulder taps."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/ASdvN_XEl_c",
+    "thumbnail": "images/plank-variations-thumb.jpg"
+  },
+  {
+    "id": "russian-twists",
+    "name": "Russian Twists",
+    "categories": [
+      "Core",
+      "Obliques"
+    ],
+    "short": "Rotate torso side to side while holding weight.",
+    "youtubeQuery": "russian+twists+weighted",
+    "steps": [
+      "Sit with knees bent, lean back slightly, hold weight at chest.",
+      "Rotate torso left and right, touching weight to ground beside hips.",
+      "Keep feet off ground for added difficulty, control the movement."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/wkD8rjkodUI",
+    "thumbnail": "images/russian-twists-thumb.jpg"
+  },
+  {
+    "id": "single-arm-row",
+    "name": "Single Arm Row (Dumbbell)",
+    "categories": [
+      "Back",
+      "Lats",
+      "Biceps"
+    ],
+    "short": "Support one knee/hand on bench, row dumbbell to your hip.",
+    "youtubeQuery": "single+arm+dumbbell+row+form",
+    "steps": [
+      "One knee & hand on bench, other foot on ground. Back flat & parallel.",
+      "Pull dumbbell so elbow goes back past torso, squeeze shoulder blades.",
+      "Lower slowly with control, maintain flat back position."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/roCP6wCXPqo",
+    "thumbnail": "images/single-arm-row-thumb.jpg"
+  },
+  {
+    "id": "reverse-fly",
+    "name": "Reverse Fly (Dumbbell)",
+    "categories": [
+      "Rear Delts",
+      "Upper Back"
+    ],
+    "short": "Bend forward, fly weights back squeezing shoulder blades.",
+    "youtubeQuery": "dumbbell+reverse+fly+form",
+    "steps": [
+      "Bend forward at hips, dumbbells hanging below chest.",
+      "Raise weights out to sides, squeezing shoulder blades together.",
+      "Focus on rear delts, don't use momentum."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/JoCRRZ3e4OM",
+    "thumbnail": "images/reverse-fly-thumb.jpg"
+  },
+  {
+    "id": "hammer-curl",
+    "name": "Hammer Curl",
+    "categories": [
+      "Biceps",
+      "Forearms"
+    ],
+    "short": "Curl with neutral grip, thumbs pointing up.",
+    "youtubeQuery": "hammer+curl+form",
+    "steps": [
+      "Hold dumbbells with neutral grip, thumbs pointing up.",
+      "Curl weights up keeping wrists straight, elbows at sides.",
+      "Lower with control, don't swing or use momentum."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/zC3nLlEvin4",
+    "thumbnail": "images/hammer-curl-thumb.jpg"
+  },
+  {
+    "id": "concentration-curl",
+    "name": "Concentration Curl",
+    "categories": [
+      "Biceps"
+    ],
+    "short": "Seated, elbow braced on thigh, curl with strict form.",
+    "youtubeQuery": "concentration+curl+form",
+    "steps": [
+      "Sit on bench, brace elbow against inner thigh.",
+      "Curl dumbbell up with strict form, focus on bicep contraction.",
+      "Lower slowly, don't let weight rest at bottom."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/0AUGkch3tzc",
+    "thumbnail": "images/concentration-curl-thumb.jpg"
+  },
+  {
+    "id": "face-pull",
+    "name": "Face Pull (Band)",
+    "categories": [
+      "Rear Delts",
+      "Upper Back",
+      "Shoulders"
+    ],
+    "short": "Pull band to face level, separate hands at end.",
+    "youtubeQuery": "face+pull+band+form",
+    "steps": [
+      "Attach band at chest height, grab with overhand grip.",
+      "Pull band to face level, elbows high.",
+      "Separate hands at face, squeeze shoulder blades together."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/HSoHeSjvIdY",
+    "thumbnail": "images/face-pull-thumb.jpg"
+  },
+  {
+    "id": "farmers-carry",
+    "name": "Farmer's Carry",
+    "categories": [
+      "Grip",
+      "Forearms",
+      "Core",
+      "Legs"
+    ],
+    "short": "Carry heavy dumbbells with neutral grip, walk upright.",
+    "youtubeQuery": "farmers+carry+technique",
+    "steps": [
+      "Pick up heavy dumbbells with straight back.",
+      "Stand tall and walk with controlled steps.",
+      "Keep shoulders down, core braced, don't lean forward."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/rt17lmnaLSM",
+    "thumbnail": "images/farmers-carry-thumb.jpg"
+  },
+  {
+    "id": "incline-bench-press",
+    "name": "Incline Bench Press (Dumbbell)",
+    "categories": [
+      "Upper Chest",
+      "Shoulders",
+      "Triceps"
+    ],
+    "short": "Incline bench press to target upper chest and front delts.",
+    "youtubeQuery": "incline+dumbbell+press+form",
+    "steps": [
+      "Set bench at 30-45°, lie back with dumbbells at chest.",
+      "Press up and slightly together, focus on upper chest.",
+      "Lower with control, feel stretch in upper chest."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/8iPEnn-ltC8",
+    "thumbnail": "images/incline-bench-press-thumb.jpg"
+  },
+  {
+    "id": "dumbbell-curl",
+    "name": "Dumbbell Curl",
+    "categories": [
+      "Biceps",
+      "Forearms"
+    ],
+    "short": "Keep elbows by your sides, curl weights with control.",
+    "youtubeQuery": "dumbbell+bicep+curl+form",
+    "steps": [
+      "Stand tall, dumbbells at sides. Elbows stay pinned to sides.",
+      "Move only forearms, curl weights up by contracting biceps.",
+      "Control both raising & lowering phases for maximum effectiveness."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/ykJmrZ5v0Oo",
+    "thumbnail": "images/dumbbell-curl-thumb.jpg"
+  },
+  {
+    "id": "lateral-lunges",
+    "name": "Lateral Lunges",
+    "categories": [
+      "Legs",
+      "Glutes",
+      "Inner Thighs"
+    ],
+    "short": "Step wide to side, sit back into lunge position.",
+    "youtubeQuery": "lateral+lunges+form",
+    "steps": [
+      "Stand with feet together, step wide to one side.",
+      "Sit back into lunge, keep other leg straight.",
+      "Push off to return to center, alternate sides."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/YQampZ6MeVY",
+    "thumbnail": "images/lateral-lunges-thumb.jpg"
+  },
+  {
+    "id": "push-ups",
+    "name": "Push-ups (Weighted/Elevated)",
+    "categories": [
+      "Chest",
+      "Triceps",
+      "Shoulders",
+      "Core"
+    ],
+    "short": "Lower chest to ground, push back up with control.",
+    "youtubeQuery": "push+ups+proper+form",
+    "steps": [
+      "Start in plank position, hands slightly wider than shoulders.",
+      "Lower chest to ground, keep body straight.",
+      "Push back up, fully extend arms at top."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/IODxDxX7oi4",
+    "thumbnail": "images/push-ups-thumb.jpg"
+  },
+  {
+    "id": "squat-to-press",
+    "name": "Squat to Press (Dumbbell)",
+    "categories": [
+      "Legs",
+      "Shoulders",
+      "Core"
+    ],
+    "short": "Squat down, drive up and press weights overhead.",
+    "youtubeQuery": "squat+to+press+dumbbell",
+    "steps": [
+      "Hold dumbbells at shoulder level, feet shoulder-width apart.",
+      "Squat down keeping chest up, weights at shoulders.",
+      "Drive up explosively and press weights overhead."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/kjIlgp0B8oU",
+    "thumbnail": "images/squat-to-press-thumb.jpg"
+  },
+  {
+    "id": "plank-shoulder-tap",
+    "name": "Plank with Shoulder Tap",
+    "categories": [
+      "Core",
+      "Shoulders",
+      "Stability"
+    ],
+    "short": "High plank, tap opposite shoulder while keeping hips stable.",
+    "youtubeQuery": "plank+shoulder+taps+form",
+    "steps": [
+      "Start in high plank, body straight from head to heels.",
+      "Lift right hand to tap left shoulder, place it back.",
+      "Alternate while minimizing hip rotation and movement."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/HC8wLWOGCbU",
+    "thumbnail": "images/plank-shoulder-tap-thumb.jpg"
   },
   {
     "id": "arnold-press",
-    "name": "Arnold Press",
-    "categories": ["Shoulders", "Delts"],
+    "name": "Arnold Press (Dumbbell)",
+    "categories": [
+      "Shoulders",
+      "Delts"
+    ],
     "short": "Rotate dumbbells while pressing overhead.",
     "youtubeQuery": "arnold+press+form",
     "steps": [
@@ -360,7 +437,316 @@
       "Rotate and press up, palms face forward at top.",
       "Reverse the motion on the way down."
     ],
-    "thumbnail": "images/arnold-press-thumb.jpg",
-    "images": ["images/arnold-press-step-1.png", "images/arnold-press-step-2.png", "images/arnold-press-step-3.png"]
+    "youtubeEmbed": "https://www.youtube.com/embed/6Z15_WdXmVw",
+    "thumbnail": "images/arnold-press-thumb.jpg"
+  },
+  {
+    "id": "front-raises",
+    "name": "Front Raises",
+    "categories": [
+      "Shoulders",
+      "Front Delts"
+    ],
+    "short": "Raise dumbbells forward to shoulder height.",
+    "youtubeQuery": "front+raises+dumbbell+form",
+    "steps": [
+      "Hold dumbbells at sides, palms facing back.",
+      "Raise one or both weights forward to shoulder height.",
+      "Lower with control, don't swing or use momentum."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/qzaOOWvBNQs",
+    "thumbnail": "images/front-raises-thumb.jpg"
+  },
+  {
+    "id": "skull-crushers",
+    "name": "Skull Crushers (Dumbbell)",
+    "categories": [
+      "Triceps"
+    ],
+    "short": "Lower weights to forehead, extend back up using triceps.",
+    "youtubeQuery": "skull+crushers+dumbbell+form",
+    "steps": [
+      "Lie on bench, hold dumbbells above chest, arms extended.",
+      "Lower weights toward forehead by bending elbows only.",
+      "Extend back to start, keep upper arms stationary."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/d_KZxkY_0cM",
+    "thumbnail": "images/skull-crushers-thumb.jpg"
+  },
+  {
+    "id": "diamond-push-ups",
+    "name": "Diamond Push-ups",
+    "categories": [
+      "Triceps",
+      "Chest",
+      "Core"
+    ],
+    "short": "Push-ups with hands in diamond shape, targets triceps.",
+    "youtubeQuery": "diamond+push+ups+form",
+    "steps": [
+      "Form diamond with hands, thumbs and index fingers touching.",
+      "Lower chest toward hands, keep elbows close to body.",
+      "Push back up, focus on tricep engagement."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/J0DnG1_S92I",
+    "thumbnail": "images/diamond-push-ups-thumb.jpg"
+  },
+  {
+    "id": "side-plank",
+    "name": "Side Plank",
+    "categories": [
+      "Core",
+      "Obliques",
+      "Stability"
+    ],
+    "short": "Hold side plank position, body in straight line.",
+    "youtubeQuery": "side+plank+form",
+    "steps": [
+      "Lie on side, prop up on forearm, stack feet.",
+      "Lift hips up, body in straight line from head to feet.",
+      "Hold position, keep core engaged, don't let hips sag."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/K2VljzCC16g",
+    "thumbnail": "images/side-plank-thumb.jpg"
+  },
+  {
+    "id": "hanging-leg-raises",
+    "name": "Hanging Leg Raises",
+    "categories": [
+      "Core",
+      "Lower Abs"
+    ],
+    "short": "Hang from bar, raise legs up using core strength.",
+    "youtubeQuery": "hanging+leg+raises+form",
+    "steps": [
+      "Hang from pull-up bar with straight arms.",
+      "Raise legs up toward chest, keep them straight or bent.",
+      "Lower with control, don't swing or use momentum."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/Pr1ieGZ5atk",
+    "thumbnail": "images/hanging-leg-raises-thumb.jpg"
+  },
+  {
+    "id": "bicep-curl-press-combo",
+    "name": "Bicep Curl + Press Combo",
+    "categories": [
+      "Biceps",
+      "Shoulders"
+    ],
+    "short": "Curl weights up, then press overhead in one fluid motion.",
+    "youtubeQuery": "bicep+curl+press+combo",
+    "steps": [
+      "Start with dumbbells at sides, curl up to shoulders.",
+      "Rotate palms forward, press weights overhead.",
+      "Reverse the motion: lower to shoulders, then to sides."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/av7-8igSXTs",
+    "thumbnail": "images/bicep-curl-press-combo-thumb.jpg"
+  },
+  {
+    "id": "tricep-kickbacks",
+    "name": "Tricep Kickbacks",
+    "categories": [
+      "Triceps"
+    ],
+    "short": "Bend forward, extend dumbbells back using triceps.",
+    "youtubeQuery": "tricep+kickbacks+form",
+    "steps": [
+      "Bend forward, upper arms parallel to ground, elbows bent.",
+      "Extend dumbbells back until arms are straight.",
+      "Squeeze triceps at top, return to bent position."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/6SS6K3lAwZ8",
+    "thumbnail": "images/tricep-kickbacks-thumb.jpg"
+  },
+  {
+    "id": "mountain-climbers",
+    "name": "Mountain Climbers",
+    "categories": [
+      "Core",
+      "Cardio",
+      "Full Body"
+    ],
+    "short": "Plank position, alternate bringing knees to chest rapidly.",
+    "youtubeQuery": "mountain+climbers+form",
+    "steps": [
+      "Start in plank position, hands under shoulders.",
+      "Alternate bringing knees toward chest rapidly.",
+      "Keep core tight, maintain plank position throughout."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/kLh-uczlPLg",
+    "thumbnail": "images/mountain-climbers-thumb.jpg"
+  },
+  {
+    "id": "barbell-bench-press",
+    "name": "Barbell Bench Press",
+    "categories": [
+      "Chest",
+      "Triceps",
+      "Shoulders"
+    ],
+    "short": "Press barbell from chest to full extension, maintain arch.",
+    "youtubeQuery": "barbell+bench+press+form",
+    "steps": [
+      "Lie on bench, grip barbell slightly wider than shoulders.",
+      "Lower bar to chest with control, elbows at 45° angle.",
+      "Press up explosively, lock out arms at top."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/rT7DgCr-3pg",
+    "thumbnail": "images/barbell-bench-press-thumb.jpg"
+  },
+  {
+    "id": "cable-tricep-pushdown",
+    "name": "Cable Tricep Pushdown",
+    "categories": [
+      "Triceps"
+    ],
+    "short": "Push cable bar down, extend arms fully using triceps.",
+    "youtubeQuery": "cable+tricep+pushdown+form",
+    "steps": [
+      "Stand at cable machine, grab bar with overhand grip.",
+      "Keep elbows at sides, push bar down until arms straight.",
+      "Return with control, don't let elbows flare out."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/2-LAMcpzODU",
+    "thumbnail": "images/cable-tricep-pushdown-thumb.jpg"
+  },
+  {
+    "id": "seated-cable-row",
+    "name": "Seated Cable Row (Wide Grip)",
+    "categories": [
+      "Back",
+      "Lats",
+      "Rear Delts"
+    ],
+    "short": "Pull cable handle to torso with wide grip, squeeze shoulder blades.",
+    "youtubeQuery": "seated+cable+row+wide+grip",
+    "steps": [
+      "Sit at cable machine, grab wide grip handle.",
+      "Pull handle to lower chest, squeeze shoulder blades together.",
+      "Return with control, feel stretch in lats."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/UCXxvVItLoM",
+    "thumbnail": "images/seated-cable-row-thumb.jpg"
+  },
+  {
+    "id": "cable-crunch",
+    "name": "Cable Crunch (Kneeling)",
+    "categories": [
+      "Core",
+      "Abs"
+    ],
+    "short": "Kneel and crunch down using cable resistance.",
+    "youtubeQuery": "kneeling+cable+crunch+form",
+    "steps": [
+      "Kneel in front of cable machine, hold rope attachment.",
+      "Crunch down bringing elbows toward knees.",
+      "Focus on abs contraction, return with control."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/Ffr2gfuN0-w",
+    "thumbnail": "images/cable-crunch-thumb.jpg"
+  },
+  {
+    "id": "romanian-deadlift",
+    "name": "Romanian Deadlift",
+    "categories": [
+      "Hamstrings",
+      "Glutes",
+      "Back"
+    ],
+    "short": "Hinge at hips with slight knee bend, feel hamstring stretch.",
+    "youtubeQuery": "dumbbell+romanian+deadlift+form",
+    "steps": [
+      "Hold dumbbells in front, hinge at hips with slight knee bend.",
+      "Lower weights along legs, feel stretch in hamstrings.",
+      "Drive hips forward to return, squeeze glutes at top."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/2SHsk9AzdjA",
+    "thumbnail": "images/romanian-deadlift-thumb.jpg"
+  },
+  {
+    "id": "standing-calf-raises",
+    "name": "Standing Calf Raises",
+    "categories": [
+      "Calves",
+      "Lower Legs"
+    ],
+    "short": "Rise up on toes, squeeze calves at top.",
+    "youtubeQuery": "standing+calf+raises+form",
+    "steps": [
+      "Stand with balls of feet on platform, heels hanging.",
+      "Rise up on toes as high as possible, squeeze calves.",
+      "Lower heels below platform for full stretch."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/gwLzBJYoWlI",
+    "thumbnail": "images/standing-calf-raises-thumb.jpg"
+  },
+  {
+    "id": "hanging-knee-raise",
+    "name": "Hanging Knee Raise",
+    "categories": [
+      "Core",
+      "Lower Abs"
+    ],
+    "short": "Hang from bar, bring knees to chest using core.",
+    "youtubeQuery": "hanging+knee+raise+form",
+    "steps": [
+      "Hang from pull-up bar with straight arms.",
+      "Bring knees up toward chest, control the movement.",
+      "Lower legs with control, don't swing."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/hdng3Nm1x_E",
+    "thumbnail": "images/hanging-knee-raise-thumb.jpg"
+  },
+  {
+    "id": "incline-barbell-press",
+    "name": "Incline Barbell Press",
+    "categories": [
+      "Upper Chest",
+      "Shoulders",
+      "Triceps"
+    ],
+    "short": "Press barbell on incline bench to target upper chest.",
+    "youtubeQuery": "incline+barbell+press+form",
+    "steps": [
+      "Set bench at 30-45°, grip barbell slightly wider than shoulders.",
+      "Lower bar to upper chest with control.",
+      "Press up focusing on upper chest contraction."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/DbFgADa2PL8",
+    "thumbnail": "images/incline-barbell-press-thumb.jpg"
+  },
+  {
+    "id": "chest-fly-flat",
+    "name": "Chest Fly (Dumbbell, Flat Bench)",
+    "categories": [
+      "Chest",
+      "Shoulders"
+    ],
+    "short": "Arc dumbbells out and together on flat bench.",
+    "youtubeQuery": "dumbbell+chest+fly+flat+bench",
+    "steps": [
+      "Lie flat on bench, dumbbells above chest with slight elbow bend.",
+      "Lower weights in wide arc until you feel chest stretch.",
+      "Bring dumbbells together above chest, squeeze pecs."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/eozdVDA78K0",
+    "thumbnail": "images/chest-fly-flat-thumb.jpg"
+  },
+  {
+    "id": "overhead-cable-tricep-extension",
+    "name": "Overhead Cable Tricep Extension",
+    "categories": [
+      "Triceps"
+    ],
+    "short": "Pull cable overhead, extend arms using triceps.",
+    "youtubeQuery": "overhead+cable+tricep+extension",
+    "steps": [
+      "Face away from cable machine, hold rope overhead.",
+      "Extend arms forward and up, focus on tricep contraction.",
+      "Return with control, keep upper arms stationary."
+    ],
+    "youtubeEmbed": "https://www.youtube.com/embed/92OkTHon7jk",
+    "thumbnail": "images/overhead-cable-tricep-extension-thumb.jpg"
   }
 ]
